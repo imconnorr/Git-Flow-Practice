@@ -1,0 +1,78 @@
+elements that describe meaning
+
+code used to structure a webpage
+
+<img src="url">, a href="" always in the opening tag
+
+h1 tag is The largest font for a heading, only used 1 time per page
+
+Two tags that have required attributes are img and a href
+
+links, titles
+
+a way to create a selector that can identify ONLY 1 thing
+
+h1, p, img
+
+One time for a specific id per page
+
+a class is to assign multiple items to one tag
+
+a href = "#" target="_blank"></a>
+
+text for an image that cannot be displayed (good for when inspecting a page)
+
+How do I reference an id= #
+
+Difference between a section and a div= section automatically applies, div is a blank state
+
+css is used to provide style to html
+
+h2 { color: blue;}
+
+class: h2, p, h4: {} id: #
+
+how to select classes in CSS: .classname {}
+
+.human p{}
+
+parent child selector: p tag inside of a div tag ex: div p, h1, h2{}
+
+.sidebar a{}
+
+psuedo selector: a:hover{}, a::before{}
+
+line-height: 10px;
+
+letter-spacing: 5px;
+
+text-transform: uppercase;
+
+text-transform: lowercase;
+
+text-transform: capitalize;
+
+div{border: 1px;}
+
+universal {}
+
+/* */
+
+$pwd
+
+$ls 
+
+$rm, be careful because you cannot recover it 
+
+version control allows you to see changes you have made
+
+you should commit every time you want to save
+
+git push origin -u 
+
+You need to fork the repository, clone the repo, checkout a branch, do the objectives, push to the remote repo branch, and create a pull request
+
+inline are items like <span>, <links> in the same line
+block are texts paragraphs
+
+It seperates from everything elements
